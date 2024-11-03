@@ -19,8 +19,9 @@ The project addresses the following key questions:
 1. Are certain demographic groups more likely to telework?
 2. What is the correlation between weekly telework hours and age?
 3. Which job categories and industries have the highest telework participation?
-4. Are full-time employees more likely to telework than part-time employees?
-5. What is the distribution of telework hours among full-time and part-time workers?
+4. How does industry impact telework participation and hours?
+5. Are full-time employees more likely to telework than part-time employees?
+6. What is the distribution of telework hours among full-time and part-time workers?
 
 ## Key Insights
 
@@ -46,7 +47,8 @@ The analysis found that telework participation rates are higher among individual
 Install the required libraries using:
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+
+  pip install pandas numpy matplotlib seaborn
 
 
 ## Usage
