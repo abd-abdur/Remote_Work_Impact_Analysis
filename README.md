@@ -48,6 +48,7 @@ Install the required libraries using:
 ```bash
 pip install pandas numpy matplotlib seaborn
 
+
 ## Usage
 
 The analysis notebook can be used to explore telework trends across various dimensions and adapt the insights for organizational policy-making or HR research purposes. Simply run each cell in the notebook to reproduce the visuals and findings.
