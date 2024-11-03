@@ -10,8 +10,7 @@ This repository contains a data analysis project focused on the trends and impac
   - Visualization of key insights into telework trends across various industries
   - Conclusions based on the analysis
 
-- **Data Folder**: Contains the cleaned datasets used in the analysis. *(Note: The data files are referenced in the notebook and should be located in a `/data` folder in the same directory).*
-
+- **Data Folder**: https://drive.google.com/drive/folders/1MQJJjigl79hlM9cHQzq_jtICzuoEJ_FC?usp=sharing
 ## Research Questions
 
 The project addresses the following key questions:
