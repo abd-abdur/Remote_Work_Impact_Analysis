@@ -44,9 +44,7 @@ The analysis found that telework participation rates are higher among individual
   - `matplotlib`
   - `seaborn`
 
-Install the required libraries using:
-
-  pip install pandas numpy matplotlib seaborn
+Install the required libraries using: pip install pandas numpy matplotlib seaborn
 
 
 ## Usage
